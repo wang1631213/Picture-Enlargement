@@ -1,4 +1,5 @@
 # Picture-Enlargement
+加了一个图形界面，方便处理
 下载适用于 Intel/AMD/Nvidia GPU 的 Windows/Linux/MacOS 可执行文件
 
 https://github.com/nihui/realsr-ncnn-vulkan/releases
